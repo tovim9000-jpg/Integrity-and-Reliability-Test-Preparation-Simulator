@@ -1,0 +1,6 @@
+{
+  "name": "סימולטור הכנה למבחני אמינות ומהימנות",
+  "description": "סימולטור אינטראקטיבי ומדריך מקצועי להכנה ותרגול לקראת מבחני אמינות תעסוקתיים (מידות, אדם מילוא, פילת).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
